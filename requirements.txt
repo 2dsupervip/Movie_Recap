@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+groq
+edge-tts
+yt-dlp
+gTTS
+Pillow
