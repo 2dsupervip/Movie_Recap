@@ -1,7 +1,6 @@
 streamlit
+yt-dlp
 google-generativeai
 groq
+faster-whisper
 edge-tts
-yt-dlp
-gTTS
-Pillow
